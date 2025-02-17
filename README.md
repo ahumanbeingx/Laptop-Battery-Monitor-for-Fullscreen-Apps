@@ -1,5 +1,5 @@
 # Laptop-Battery-Monitor-for-Fullscreen-Apps
-Allows the user to see the status of their laptop battery at all times even if using a Fullscreen app.
+Allows the user to see the status of their laptop battery at all times even if using a Fullscreen app. Works great for games or for streaming from your desktop to your laptop using tools like Sunshine and Moonlight (both free and open source).
 
 # Battery Monitor
 
